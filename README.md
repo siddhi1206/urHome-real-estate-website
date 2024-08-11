@@ -11,7 +11,7 @@ Technologies Used
 Set up your database:
 
 Import the provided SQL file into your MySQL database to create the necessary table for storing contact form submissions.
-Update the database connection details in the config.php file.
+Update the database connection details in the contact.php file.
 Obtain a Google Maps API key:
 
 Sign up for a Google Cloud account and enable the Google Maps JavaScript API.
